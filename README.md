@@ -1,1 +1,5 @@
 # SSModule
+
+MD5 (ss.module) = f7653207090ce3389115e9c88541afe0
+
+SHA256(ss.module)= 218837db5a6fdf72976d177c2a0ae478ac4bb795e19219ac2ba7fa37c5770cc9
